@@ -105,6 +105,16 @@ for my $bucket (@BUCKETS) {
             my ($closeStr) = $row =~ /Student Application\s*Open till\s*(?:\([^)]*\))?\s*:?\s*([\d-]{10})/;
             my $isRenewal  = ($row =~ /Student Application\s*Open till\s*\(for Renewal\)/) ? 1 : 0;
             my ($guideUrl) = $row =~ /<a href="([^"]+)"[^>]*>\s*Specifications\s*<\/a>/;
+            if (defined($guideUrl)) {
+                if ($guideUrl eq 'null' || $guideUrl eq '' || $guideUrl eq '#') {
+                    # NSP itself hasn't uploaded a guidelines PDF for this scheme yet —
+                    # its own template literally renders href="null" in that case.
+                    $guideUrl = undef;
+                } elsif ($guideUrl =~ m{^/}) {
+                    # a few rows use a domain-relative path instead of a full URL
+                    $guideUrl = "$BASE_URL$guideUrl";
+                }
+            }
 
             my $status = 'open';
             if ($row =~ /Student Application\s*:\s*NOT YET OPENED/) {

@@ -199,7 +199,7 @@
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "central-sector-national-renewable-energy-fellowship-scheme-merit-based-scheme",
          "ministry" : "Ministry of New And Renewable Energy",
          "name" : "National Renewable Energy Fellowship Scheme (Merit Based Scheme)",
@@ -303,7 +303,7 @@
       {
          "applicationClose" : "2026-08-31",
          "applicationOpen" : "2026-07-25",
-         "guidelinesUrl" : "/public/schemeGuidelines/DEPDGuidelines_1.pdf",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/DEPDGuidelines_1.pdf",
          "id" : "central-sector-pre-matric-scholarship-for-students-with-disabilities-welfare-based-scheme",
          "ministry" : "Department of Empowerment of Persons with Disabilities",
          "name" : "Pre Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
@@ -316,7 +316,7 @@
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-07-25",
-         "guidelinesUrl" : "/public/schemeGuidelines/DEPDGuidelines_1.pdf",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/DEPDGuidelines_1.pdf",
          "id" : "central-sector-post-matric-scholarship-for-students-with-disabilities-welfare-based-scheme",
          "ministry" : "Department of Empowerment of Persons with Disabilities",
          "name" : "Post Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
@@ -329,7 +329,7 @@
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
-         "guidelinesUrl" : "/public/schemeGuidelines/DEPDGuidelines_1.pdf",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/DEPDGuidelines_1.pdf",
          "id" : "central-sector-scholarship-for-top-class-education-for-students-with-disabilities-welfare-based-scheme",
          "ministry" : "Department of Empowerment of Persons with Disabilities",
          "name" : "Scholarship For Top Class Education For Students With Disabilities (Welfare Based Scheme)",
@@ -692,7 +692,7 @@
       {
          "applicationClose" : null,
          "applicationOpen" : null,
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-pre-matric-scholarship-for-sc-students-studying-in-classes-ix-and-x-delhi-welfare-based-scheme",
          "ministry" : null,
          "name" : "Pre-Matric Scholarship For SC Students Studying In Classes Ix And X -Delhi (Welfare Based Scheme)",
@@ -707,7 +707,7 @@
       {
          "applicationClose" : null,
          "applicationOpen" : null,
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-and-dnt-delhi-welfare-based-scheme",
          "ministry" : null,
          "name" : "PM YASASVI Post Matric Scholarship Scheme For OBC EBC And DNT - Delhi (Welfare Based Scheme)",
@@ -722,7 +722,7 @@
       {
          "applicationClose" : null,
          "applicationOpen" : null,
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-delhi-welfare-based-scheme",
          "ministry" : null,
          "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC EBC And DNT - Delhi (Welfare Based Scheme)",
@@ -737,7 +737,7 @@
       {
          "applicationClose" : null,
          "applicationOpen" : null,
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-post-matric-scholarship-for-sc-students-delhi-welfare-based-scheme",
          "ministry" : null,
          "name" : "Post Matric Scholarship For SC Students - Delhi (Welfare Based Scheme)",
@@ -842,7 +842,7 @@
       {
          "applicationClose" : null,
          "applicationOpen" : null,
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-post-matric-scholarship-for-sc-students-haryana-welfare-based-scheme",
          "ministry" : null,
          "name" : "Post Matric Scholarship For SC Students - Haryana (Welfare Based Scheme)",
@@ -992,7 +992,7 @@
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-07-22",
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-and-dnt-jammu-and-kashmir-welfare-based-scheme",
          "ministry" : null,
          "name" : "PM YASASVI Post Matric Scholarship Scheme For OBC EBC And DNT - Jammu And Kashmir (Welfare Based Scheme)",
@@ -1007,7 +1007,7 @@
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-07-22",
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-jammu-and-kashmir-welfare-based-scheme",
          "ministry" : null,
          "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC EBC And DNT - Jammu And Kashmir (Welfare Based Scheme)",
@@ -1082,7 +1082,7 @@
       {
          "applicationClose" : "2026-11-30",
          "applicationOpen" : "2026-07-17",
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-and-dnt-maharashtra-welfare-based-scheme",
          "ministry" : null,
          "name" : "PM YASASVI Post Matric Scholarship Scheme For OBC EBC And DNT - Maharashtra (Welfare Based Scheme)",
@@ -1097,7 +1097,7 @@
       {
          "applicationClose" : "2026-11-30",
          "applicationOpen" : "2026-07-17",
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-maharashtra-welfare-based-scheme",
          "ministry" : null,
          "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC EBC And DNT - Maharashtra (Welfare Based Scheme)",
@@ -1292,7 +1292,7 @@
       {
          "applicationClose" : null,
          "applicationOpen" : null,
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-pre-matric-scholarship-scheme-for-st-students-nagaland-welfare-based-scheme",
          "ministry" : null,
          "name" : "Pre Matric Scholarship Scheme For ST Students-Nagaland (Welfare Based Scheme)",
@@ -1412,7 +1412,7 @@
       {
          "applicationClose" : "2026-11-20",
          "applicationOpen" : "2026-07-15",
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-and-dnt-punjab-welfare-based-scheme",
          "ministry" : null,
          "name" : "PM YASASVI Post Matric Scholarship Scheme For OBC EBC And DNT - Punjab (Welfare Based Scheme)",
@@ -1427,7 +1427,7 @@
       {
          "applicationClose" : "2026-11-15",
          "applicationOpen" : "2026-07-01",
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-centrally-sponsored-post-matric-scheme-for-sc-students-punjab-welfare-based-scheme",
          "ministry" : null,
          "name" : "Centrally Sponsored Post Matric Scheme For SC Students-Punjab (Welfare Based Scheme)",
@@ -1937,7 +1937,7 @@
       {
          "applicationClose" : null,
          "applicationOpen" : null,
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarsip-scheme-for-sc-west-bengal-welfare-based-scheme",
          "ministry" : null,
          "name" : "Centrally Sponsored Post Matric Scholarsip Scheme For SC -West Bengal (Welfare Based Scheme)",
@@ -1952,7 +1952,7 @@
       {
          "applicationClose" : null,
          "applicationOpen" : null,
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-scheme-for-sc-class-9-10-west-bengal-welfare-based-scheme",
          "ministry" : null,
          "name" : "Centrally Sponsored Pre Matric Scholarship Scheme For SC (Class 9 & 10)- West Bengal (Welfare Based Scheme)",
@@ -1967,7 +1967,7 @@
       {
          "applicationClose" : null,
          "applicationOpen" : null,
-         "guidelinesUrl" : "null",
+         "guidelinesUrl" : null,
          "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-scheme-to-the-children-of-those-engaged-in-occupations-involving-cleaning-and-health-hazard-west-bengal-welfare-based-scheme",
          "ministry" : null,
          "name" : "Centrally Sponsored Pre Matric Scholarship Scheme To The Children Of Those Engaged In Occupations Involving Cleaning And Health Hazard-West Bengal (Welfare Based Scheme)",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Tue Aug 18 21:00:18 2026 UTC",
+   "scrapedAt" : "Tue Aug 18 21:37:38 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
