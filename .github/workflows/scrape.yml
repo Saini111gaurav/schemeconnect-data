@@ -2,7 +2,6 @@ name: Scrape NSP scheme data
 
 on:
   schedule:
-    # 03:17 UTC daily — off the hour to avoid the top-of-hour pileup on GitHub's schedulers
     - cron: '17 3 * * *'
   workflow_dispatch: {}
 
