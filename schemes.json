@@ -1,379 +1,1986 @@
 {
-   "schemeCount" : 31,
+   "schemeCount" : 136,
    "schemes" : [
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/warb/PMSS_Guidelines_1197_3001-2023-24.pdf",
-         "id" : "prime-minister-s-scholarship-scheme-for-wards-of-states-uts-police-personnel-martyred-during-terror-naxal-attacks-merit-based-scheme",
+         "id" : "central-sector-prime-minister-s-scholarship-scheme-for-wards-of-states-uts-police-personnel-martyred-during-terror-naxal-attacks-merit-based-scheme",
          "ministry" : "Ministry of Home Affairs",
          "name" : "Prime Minister'S Scholarship Scheme For Wards Of States/UTs Police Personnel Martyred During Terror/Naxal Attacks (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/warb/PMSS_Guidelines_1197_3001-2023-24.pdf",
-         "id" : "prime-minister-s-scholarship-scheme-for-central-armed-police-forces-and-assam-rifles-merit-based-scheme",
+         "id" : "central-sector-prime-minister-s-scholarship-scheme-for-central-armed-police-forces-and-assam-rifles-merit-based-scheme",
          "ministry" : "Ministry of Home Affairs",
          "name" : "Prime Minister'S Scholarship Scheme For Central Armed Police Forces And Assam Rifles (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3039_G.pdf",
-         "id" : "aicte-swanath-scholarship-scheme-technical-degree-welfare-based-scheme",
+         "id" : "central-sector-aicte-swanath-scholarship-scheme-technical-degree-welfare-based-scheme",
          "ministry" : "All India Council For Technical Education",
          "name" : "AICTE - Swanath Scholarship Scheme ( Technical Degree) (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/AICTE/PM_USPY(SSSJKL)SchemeSpecifications.pdf",
-         "id" : "pm-usp-special-scholarship-scheme-for-jammu-kashmir-and-ladakh-merit-based-scheme",
+         "id" : "central-sector-pm-usp-special-scholarship-scheme-for-jammu-kashmir-and-ladakh-merit-based-scheme",
          "ministry" : "All India Council For Technical Education",
          "name" : "PM USP Special Scholarship Scheme For Jammu Kashmir And Ladakh (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : true,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_G.pdf",
-         "id" : "aicte-pragati-scholarship-scheme-for-girl-students-technical-degree-merit-based-scheme",
+         "id" : "central-sector-aicte-pragati-scholarship-scheme-for-girl-students-technical-degree-merit-based-scheme",
          "ministry" : "All India Council For Technical Education",
          "name" : "AICTE - Pragati Scholarship Scheme For Girl Students ( Technical Degree) (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2011_G.pdf",
-         "id" : "aicte-pragati-scholarship-scheme-for-girl-students-technical-diploma-merit-based-scheme",
+         "id" : "central-sector-aicte-pragati-scholarship-scheme-for-girl-students-technical-diploma-merit-based-scheme",
          "ministry" : "All India Council For Technical Education",
          "name" : "AICTE - Pragati Scholarship Scheme For Girl Students ( Technical Diploma) (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2013_G.pdf",
-         "id" : "aicte-saksham-scholarship-scheme-for-specially-abled-student-technical-diploma-welfare-based-scheme",
+         "id" : "central-sector-aicte-saksham-scholarship-scheme-for-specially-abled-student-technical-diploma-welfare-based-scheme",
          "ministry" : "All India Council For Technical Education",
          "name" : "AICTE - Saksham Scholarship Scheme For Specially Abled Student ( Technical Diploma) (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2012_G.pdf",
-         "id" : "aicte-saksham-scholarship-scheme-for-specially-abled-student-technical-degree-welfare-based-scheme",
+         "id" : "central-sector-aicte-saksham-scholarship-scheme-for-specially-abled-student-technical-degree-welfare-based-scheme",
          "ministry" : "All India Council For Technical Education",
          "name" : "AICTE - Saksham Scholarship Scheme For Specially Abled Student ( Technical Degree) (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3038_G.pdf",
-         "id" : "aicte-swanath-scholarship-scheme-technical-diploma-welfare-based-scheme",
+         "id" : "central-sector-aicte-swanath-scholarship-scheme-technical-diploma-welfare-based-scheme",
          "ministry" : "All India Council For Technical Education",
          "name" : "AICTE - Swanath Scholarship Scheme (Technical Diploma) (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : null,
          "applicationOpen" : null,
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf",
-         "id" : "national-scholarship-for-post-graduate-studies-merit-based-scheme",
+         "id" : "central-sector-national-scholarship-for-post-graduate-studies-merit-based-scheme",
          "ministry" : "UGC",
          "name" : "National Scholarship For Post Graduate Studies (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "not_yet_opened"
       },
       {
          "applicationClose" : null,
          "applicationOpen" : null,
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Guidelines_ISHAN UDAY_2324.pdf",
-         "id" : "ishan-uday-special-scholarship-scheme-for-ner-merit-based-scheme",
+         "id" : "central-sector-ishan-uday-special-scholarship-scheme-for-ner-merit-based-scheme",
          "ministry" : "UGC",
          "name" : "Ishan Uday Special Scholarship Scheme For NER (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "not_yet_opened"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf",
-         "id" : "financial-assistance-for-education-to-the-wards-of-beedi-cine-iomc-lsdm-post-matric-welfare-based-scheme",
+         "id" : "central-sector-financial-assistance-for-education-to-the-wards-of-beedi-cine-iomc-lsdm-post-matric-welfare-based-scheme",
          "ministry" : "Ministry of Labour & Employment",
          "name" : "Financial Assistance For Education To The Wards Of Beedi/Cine/Iomc/Lsdm- Post Matric (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-08-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf",
-         "id" : "financial-assistance-for-education-to-the-wards-of-beedi-cine-iomc-lsdm-pre-matric-welfare-based-scheme",
+         "id" : "central-sector-financial-assistance-for-education-to-the-wards-of-beedi-cine-iomc-lsdm-pre-matric-welfare-based-scheme",
          "ministry" : "Ministry of Labour & Employment",
          "name" : "Financial Assistance For Education To The Wards Of Beedi/Cine/Iomc/Lsdm- Pre Matric (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-08-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3061_G.pdf",
-         "id" : "pm-yasasvi-central-sector-scheme-of-top-class-education-in-schools-for-obc-ebc-and-dnt-students-merit-based-scheme",
+         "id" : "central-sector-pm-yasasvi-central-sector-scheme-of-top-class-education-in-schools-for-obc-ebc-and-dnt-students-merit-based-scheme",
          "ministry" : "Department of Social Justice & Empowerment(Backward Classes)",
          "name" : "PM YASASVI Central Sector Scheme Of Top Class Education In Schools For OBC, EBC And DNT Students (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : true,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/ApprovedmodifieddraftofTopClassCollege.pdf",
-         "id" : "pm-yasasvi-central-sector-scheme-of-top-class-education-in-college-for-obc-ebc-and-dnt-students-merit-based-scheme",
+         "id" : "central-sector-pm-yasasvi-central-sector-scheme-of-top-class-education-in-college-for-obc-ebc-and-dnt-students-merit-based-scheme",
          "ministry" : "Department of Social Justice & Empowerment(Backward Classes)",
          "name" : "PM YASASVI Central Sector Scheme Of Top Class Education In College For OBC, EBC And DNT Students (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "null",
-         "id" : "national-renewable-energy-fellowship-scheme-merit-based-scheme",
+         "id" : "central-sector-national-renewable-energy-fellowship-scheme-merit-based-scheme",
          "ministry" : "Ministry of New And Renewable Energy",
          "name" : "National Renewable Energy Fellowship Scheme (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/STIPEND_STATICAL_GUIDLLINES.pdf",
-         "id" : "stipend-scheme-for-under-graduate-and-post-graduate-studies-in-indian-statistical-institute-kolkata-merit-based-scheme",
+         "id" : "central-sector-stipend-scheme-for-under-graduate-and-post-graduate-studies-in-indian-statistical-institute-kolkata-merit-based-scheme",
          "ministry" : "Ministry of Statistics and Programme Implementation",
          "name" : "Stipend Scheme For Under Graduate And Post Graduate Studies In Indian Statistical Institute-Kolkata (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/GuidelinesforICAR_NTS_Scholarship_3103_3104.pdf",
-         "id" : "icar-national-talent-scholarship-nts-ug-merit-based-scheme",
+         "id" : "central-sector-icar-national-talent-scholarship-nts-ug-merit-based-scheme",
          "ministry" : "Department of Agriculture Research and Education",
          "name" : "Icar National Talent Scholarship(Nts-Ug) (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/RevisedGuidelinesforICAR_JRF_SRFandPG_Scholarship_3105_3106.pdf",
-         "id" : "icar-post-graduate-scholarship-pgs-merit-based-scheme",
+         "id" : "central-sector-icar-post-graduate-scholarship-pgs-merit-based-scheme",
          "ministry" : "Department of Agriculture Research and Education",
          "name" : "Icar Post Graduate Scholarship(Pgs) (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/GuidelinesforICAR_NTS_Scholarship_3103_3104.pdf",
-         "id" : "icar-national-talent-scholarship-nts-pg-merit-based-scheme",
+         "id" : "central-sector-icar-national-talent-scholarship-nts-pg-merit-based-scheme",
          "ministry" : "Department of Agriculture Research and Education",
          "name" : "Icar National Talent Scholarship(Nts-Pg) (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/RevisedGuidelinesforICAR_JRF_SRFandPG_Scholarship_3105_3106.pdf",
-         "id" : "icar-junior-research-fellowships-jrf-and-senior-research-fellowships-srf-merit-based-scheme",
+         "id" : "central-sector-icar-junior-research-fellowships-jrf-and-senior-research-fellowships-srf-merit-based-scheme",
          "ministry" : "Department of Agriculture Research and Education",
          "name" : "Icar Junior Research Fellowships(Jrf) And Senior Research Fellowships(Srf) (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Top_Class_Education_Scheme_2018.pdf",
-         "id" : "central-sector-scholarship-of-top-class-education-for-sc-students-merit-based-scheme",
+         "id" : "central-sector-central-sector-scholarship-of-top-class-education-for-sc-students-merit-based-scheme",
          "ministry" : "Department of Social Justice & Empowerment",
          "name" : "Central Sector Scholarship Of Top Class Education For SC Students (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-08-03",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/guid_3108.pdf",
-         "id" : "free-coaching-for-scs-obcs-and-beneficiaries-of-pm-cares-children-scheme-welfare-based-scheme",
+         "id" : "central-sector-free-coaching-for-scs-obcs-and-beneficiaries-of-pm-cares-children-scheme-welfare-based-scheme",
          "ministry" : "Department of Social Justice & Empowerment",
          "name" : "Free Coaching For Scs OBCs And Beneficiaries Of PM Cares Children Scheme (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-08-31",
          "applicationOpen" : "2026-07-25",
          "guidelinesUrl" : "/public/schemeGuidelines/DEPDGuidelines_1.pdf",
-         "id" : "pre-matric-scholarship-for-students-with-disabilities-welfare-based-scheme",
+         "id" : "central-sector-pre-matric-scholarship-for-students-with-disabilities-welfare-based-scheme",
          "ministry" : "Department of Empowerment of Persons with Disabilities",
          "name" : "Pre Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-07-25",
          "guidelinesUrl" : "/public/schemeGuidelines/DEPDGuidelines_1.pdf",
-         "id" : "post-matric-scholarship-for-students-with-disabilities-welfare-based-scheme",
+         "id" : "central-sector-post-matric-scholarship-for-students-with-disabilities-welfare-based-scheme",
          "ministry" : "Department of Empowerment of Persons with Disabilities",
          "name" : "Post Matric Scholarship For Students With Disabilities (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "/public/schemeGuidelines/DEPDGuidelines_1.pdf",
-         "id" : "scholarship-for-top-class-education-for-students-with-disabilities-welfare-based-scheme",
+         "id" : "central-sector-scholarship-for-top-class-education-for-students-with-disabilities-welfare-based-scheme",
          "ministry" : "Department of Empowerment of Persons with Disabilities",
          "name" : "Scholarship For Top Class Education For Students With Disabilities (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-08-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/NMMSSGuidelines.pdf",
-         "id" : "national-means-cum-merit-scholarship-merit-based-scheme",
+         "id" : "central-sector-national-means-cum-merit-scholarship-merit-based-scheme",
          "ministry" : "Department of School Education & Literacy",
          "name" : "National Means Cum Merit Scholarship (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
-         "id" : "pm-usp-central-sector-scheme-of-scholarship-for-college-and-university-students-csss-merit-based-scheme",
+         "id" : "central-sector-pm-usp-central-sector-scheme-of-scholarship-for-college-and-university-students-csss-merit-based-scheme",
          "ministry" : "Department of Higher Education",
          "name" : "PM-USP – Central Sector Scheme Of Scholarship For College And University Students (CSSS) (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : true,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/tribalfellowshipguideline.pdf",
-         "id" : "national-fellowship-and-scholarship-for-higher-education-of-st-students-scholarship-formally-top-class-education-for-schedule-tribe-students-merit-based-scheme",
+         "id" : "central-sector-national-fellowship-and-scholarship-for-higher-education-of-st-students-scholarship-formally-top-class-education-for-schedule-tribe-students-merit-based-scheme",
          "ministry" : "Ministry of Tribal Affairs",
          "name" : "National Fellowship And Scholarship For Higher Education Of ST Students - Scholarship (Formally Top Class Education For Schedule Tribe Students) (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-07-15",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/NEC_1234_G.pdf",
-         "id" : "financial-support-to-the-students-of-ner-for-higher-professional-courses-nec-merit-scholarship-merit-based-scheme",
+         "id" : "central-sector-financial-support-to-the-students-of-ner-for-higher-professional-courses-nec-merit-scholarship-merit-based-scheme",
          "ministry" : "North Eastern Council(NEC),DoNER",
          "name" : "Financial Support To The Students Of NER For Higher Professional Courses(NEC Merit Scholarship) (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : true,
-         "scrapedAt" : "Mon Aug 17 15:50:32 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/MORB_GL.pdf",
-         "id" : "prime-minister-s-scholarship-scheme-for-ministry-of-railways-merit-based-scheme",
+         "id" : "central-sector-prime-minister-s-scholarship-scheme-for-ministry-of-railways-merit-based-scheme",
          "ministry" : "Ministry of Railways (Railway Board)",
          "name" : "Prime Minister'S Scholarship Scheme For Ministry Of Railways (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
-         "scrapedAt" : "Mon Aug 17 15:50:33 2026 UTC",
+         "schemeType" : "central_sector",
+         "states" : null,
          "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-03",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Andaman/POST_MATRIC_OBC_GUIDELINES_ANDMAN.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-students-andaman-and-nicobar-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship Scheme For OBC Students - Andaman And Nicobar (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Andaman and Nicobar Islands"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-12-31",
+         "applicationOpen" : "2026-08-03",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Andaman/andaman_2051_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-prematric-scholarship-scheme-for-st-students-class-ix-x-andaman-and-nicobar-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Prematric Scholarship Scheme For ST Students(Class Ix,X)-Andaman And Nicobar (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Andaman and Nicobar Islands"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-12-31",
+         "applicationOpen" : "2026-08-03",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Andaman/andaman_2052_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarship-scheme-for-st-students-andaman-and-nicobar-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Post Matric Scholarship Scheme For ST Students-Andaman And Nicobar (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Andaman and Nicobar Islands"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Andaman/3026_G.pdf",
+         "id" : "centrally-sponsored-dr-ambedkar-post-matric-scholarship-for-economically-backward-class-students-andaman-and-nicobar-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Dr Ambedkar Post Matric Scholarship For Economically Backward Class Students-Andaman And Nicobar (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Andaman and Nicobar Islands"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-03",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Andaman/PRE_MATRIC_OBC_GUIDELINES_ANDMAN.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-students-class-ix-and-x-andaman-and-nicobar-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC Students (Class Ix And X)-Andaman And Nicobar (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Andaman and Nicobar Islands"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/EDUGuidelinesAnnex1.pdf",
+         "id" : "centrally-sponsored-umbrella-scheme-for-education-of-st-students-pre-matric-scholarship-class-ix-x-for-st-students-arunachal-pradesh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Umbrella Scheme For Education Of ST Students-Pre Matric Scholarship (Class Ix & X) For ST Students Arunachal Pradesh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Arunachal Pradesh"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : "2026-10-16",
+         "applicationOpen" : "2026-08-07",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/EDUPostMatricScholarshipPMSforSTstudents.pdf",
+         "id" : "centrally-sponsored-umbrella-scheme-for-education-of-st-children-post-matric-scholarship-pms-for-st-students-arunachal-pradesh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Umbrella Scheme For Education Of ST Children -Post Matric Scholarship (PMS) For ST Students Arunachal Pradesh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Arunachal Pradesh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Assam_PRE_Matric_Scholarship_Guideline_updated.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-for-sc-students-class-ix-and-x-assam-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre-Matric Scholarship For SC Students (Class Ix And X) - Assam (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Assam"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/PRE_MATRIC_OBC_GUIDELINES.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-to-obc-students-class-9-and-class-10-assam-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre Matric Scholarship To OBC Students (Class 9 And Class 10) -Assam (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Assam"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-06",
+         "applicationOpen" : "2026-07-06",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Post-matric-guidelines-ST.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-to-st-students-assam-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship To ST Students - Assam (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Assam"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Assam_Post_Matric_guideline.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-for-sc-students-assam-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship For SC Students - Assam (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Assam"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/POST_MATRIC_OBC_GUIDELINES.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-to-obc-students-assam-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship To OBC Students - Assam (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Assam"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-06",
+         "applicationOpen" : "2026-07-06",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/guidelines-Pre-matric-ST.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-to-st-students-class-ix-and-x-assam-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre Matric Scholarship To ST Students (Class Ix And X) - Assam (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Assam"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Assam_PRE_Matric_Scholarship_Guideline_updated.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-for-sc-students-of-parents-or-guardians-engaged-in-unclean-occupation-class-1-10-assam-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre-Matric Scholarship For SC Students Of Parents Or Guardians Engaged In Unclean Occupation(Class 1-10))-Assam (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Assam"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-11-30",
+         "applicationOpen" : "2026-06-08",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-scheme-for-transgender-students-chandigarh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship Scheme For Transgender Students-Chandigarh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Chandigarh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-11-30",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/chandigarh/Post Matric SC Chandigarh guidelines.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarship-scheme-for-sc-chandigarh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Post Matric Scholarship Scheme For SC - Chandigarh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Chandigarh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-11-30",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/chandigarh/Post Matric OBC Chandgiarh Guidelines.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-and-dnt-students-chandigarh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship Scheme For OBC,EBC And DNT Students-Chandigarh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Chandigarh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-15",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/chandigarh/Pre_matric_OBC_ebc_dnt_202324.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-dnt-students-class-ix-and-x-chandigarh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC,EBC,DNT Students (Class Ix And X)-Chandigarh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Chandigarh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-15",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/chandigarh/Pre Matric SC Chandigarh guidelines.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-scheme-for-sc-students-of-class-ix-and-x-chandigarh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre-Matric Scholarship Scheme For SC Students Of Class Ix And X-Chandigarh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Chandigarh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-pre-matric-scholarship-for-sc-students-studying-in-classes-ix-and-x-delhi-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre-Matric Scholarship For SC Students Studying In Classes Ix And X -Delhi (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Delhi"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-and-dnt-delhi-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship Scheme For OBC EBC And DNT - Delhi (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Delhi"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-delhi-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC EBC And DNT - Delhi (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Delhi"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-post-matric-scholarship-for-sc-students-delhi-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship For SC Students - Delhi (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Delhi"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Goa/guidelines-Pre-matric-17-Oct-2022.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-needy-st-students-class-ix-x-goa-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Pre Matric Scholarship For Needy ST Students (Class Ix & X) -Goa (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Goa"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-11-30",
+         "applicationOpen" : "2026-08-03",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Goa/Pre_Matric_Scholarship_guidelinesSC.pdf",
+         "id" : "centrally-sponsored-prematric-scholarship-for-sc-students-studying-in-classes-ix-and-x-goa-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Prematric Scholarship For SC Students Studying In Classes Ix And X -Goa (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Goa"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-11-30",
+         "applicationOpen" : "2026-08-03",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Goa/PMS_for_SCs_Scheme_Guidelines.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-for-sc-goa-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship For SC - Goa (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Goa"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-11-30",
+         "applicationOpen" : "2026-07-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Goa/Goa_3004_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-post-matric-scholarship-for-st-students-goa-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Post Matric Scholarship For ST Students-Goa (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Goa"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Goa/Pre_Matric_Scholarship_guidelinesSC.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-to-the-children-of-those-engaged-in-occupations-involving-cleaning-and-prone-to-health-hazards-goa-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre-Matric Scholarship To The Children Of Those Engaged In Occupations Involving Cleaning And Prone To Health Hazards - Goa (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Goa"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Guidlines_3099.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-and-dnt-haryana-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship Scheme For OBC EBC And DNT - Haryana (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Haryana"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-post-matric-scholarship-for-sc-students-haryana-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship For SC Students - Haryana (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Haryana"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-06-04",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally Sponsored Scheme  of Post Matric Scholarship Scheme for ST Students_scheme.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarship-scheme-for-st-students-himachal-pradesh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Post Matric Scholarship Scheme For ST Students-Himachal Pradesh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Himachal Pradesh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-31",
+         "applicationOpen" : "2026-06-04",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally Sponsored Scheme of Pre Matric Scholarship Scheme for SC Students.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-scheme-for-sc-students-himachal-pradesh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Pre Matric Scholarship Scheme For SC Students-Himachal Pradesh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Himachal Pradesh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-06-04",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally Sponsored Scheme  of Post Matric Scholarship Scheme for SC Students_scheme.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarship-scheme-for-sc-students-himachal-pradesh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Post Matric Scholarship Scheme For SC Students-Himachal Pradesh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Himachal Pradesh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-06-04",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Dr. Ambedkar Post Matric  Scholarship Scheme for Economically Backward Classes.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-for-obc-ebc-and-dnt-students-himachal-pradesh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship For OBC,EBC And DNT Students-Himachal Pradesh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Himachal Pradesh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-31",
+         "applicationOpen" : "2026-06-04",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally Sponsored Scheme of Pre Matric Scholarship Scheme for ST Scheme.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-scheme-for-st-students-himachal-pradesh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Pre Matric Scholarship Scheme For ST Students-Himachal Pradesh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Himachal Pradesh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-31",
+         "applicationOpen" : "2026-06-04",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally sponsored scheme of pre matric scholarship scheme for Other backward classes  students.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-students-class-ix-and-x-himachal-pradesh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC ,EBC And DNT Students (Class Ix And X)-Himachal Pradesh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Himachal Pradesh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-31",
+         "applicationOpen" : "2026-06-04",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-for-sc-students-of-parents-or-guardians-engaged-in-unclean-occupation-class-1-10-himachal-pradesh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre-Matric Scholarship For SC Students Of Parents Or Guardians Engaged In Unclean Occupation(Class 1-10)-Himachal Pradesh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Himachal Pradesh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-15",
+         "applicationOpen" : "2026-07-10",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/J&K/Guidelines_3048.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-sc-students-class-ix-x-jammu-and-kashmir-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Pre Matric Scholarship For SC Students (Class Ix & X) -Jammu And Kashmir (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Jammu and Kashmir"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-20",
+         "applicationOpen" : "2026-07-22",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/PMS Scheme Guide Lines - Tribal Affairs.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-to-st-students-jammu-and-kashmir-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship To ST Students -Jammu And Kashmir (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Jammu and Kashmir"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-22",
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-and-dnt-jammu-and-kashmir-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship Scheme For OBC EBC And DNT - Jammu And Kashmir (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Jammu and Kashmir"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-22",
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-jammu-and-kashmir-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC EBC And DNT - Jammu And Kashmir (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Jammu and Kashmir"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-15",
+         "applicationOpen" : "2026-07-10",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/J&K/Guidelines_3049.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-post-matric-scholarship-for-sc-students-jammu-and-kashmir-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Post Matric Scholarship For SC Students-Jammu And Kashmir (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Jammu and Kashmir"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-20",
+         "applicationOpen" : "2026-07-22",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/J&K/Guidelines_3055.pdf",
+         "id" : "centrally-sponsored-umbrella-scheme-for-education-of-st-students-pre-matric-scholarship-class-ix-x-for-st-students-jammu-and-kashmir-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Umbrella Scheme For Education Of ST Students - Pre Matric Scholarship (Class Ix & X) For ST Students-Jammu And Kashmir (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Jammu and Kashmir"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/ladakh/ladakh_3023_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-post-matric-scholarship-for-st-students-ladakh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Post Matric Scholarship For ST Students-Ladakh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Ladakh"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/ladakh/ladakh_3022_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-st-students-classes-ix-and-x-ladakh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Pre-Matric Scholarship For ST Students(Classes Ix And X)-Ladakh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Ladakh"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : "2026-11-30",
+         "applicationOpen" : "2026-07-17",
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-and-dnt-maharashtra-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship Scheme For OBC EBC And DNT - Maharashtra (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Maharashtra"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-11-30",
+         "applicationOpen" : "2026-07-17",
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-maharashtra-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC EBC And DNT - Maharashtra (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Maharashtra"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/manipur_3036_G.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-students-class-ix-and-x-manipur-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC Students (Class Ix And X) Manipur (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Manipur"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/manipur_3033_G.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-for-obc-students-manipur-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship For OBC Students Manipur (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Manipur"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/manipur_3035_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-for-sc-students-studying-in-class-ix-and-x-manipur-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Pre Matric Scholarship For SC Students Studying In Class Ix And X -Manipur (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Manipur"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-30",
+         "applicationOpen" : "2026-08-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/PreMatricGuidelinesManipur.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-for-st-students-for-class-ix-and-x-manipur-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre-Matric Scholarship For ST Students (For Class Ix And X)-Manipur (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Manipur"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-30",
+         "applicationOpen" : "2026-08-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/PostMatricGuidelinesManipur.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-for-st-students-manipur-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship For ST Students-Manipur (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Manipur"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/manipur_3032_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarship-for-sc-students-manipur-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Post Matric Scholarship For SC Students- Manipur (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Manipur"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-30",
+         "applicationOpen" : "2026-06-15",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/meghalaya/Guidelines_3054.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-post-matric-scholarship-for-sc-students-meghalaya-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Post Matric Scholarship For SC Students-Meghalaya (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Meghalaya"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-30",
+         "applicationOpen" : "2026-06-15",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/meghalaya/Guidelines_3053.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-sc-students-class-ix-x-meghalaya-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Pre Matric Scholarship For SC Students (Class Ix & X) -Meghalaya (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Meghalaya"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-11-30",
+         "applicationOpen" : "2026-07-03",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/meghalaya/meghalayaPreMatric.pdf",
+         "id" : "centrally-sponsored-umbrella-scheme-for-education-of-st-studets-pre-matric-scholarship-class-ix-x-for-st-students-meghalaya-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Umbrella Scheme For Education Of ST Studets - Pre Matric Scholarship (Class Ix & X) For ST Students-Meghalaya (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Meghalaya"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-11-30",
+         "applicationOpen" : "2026-07-03",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/meghalaya/meghalayaPostMatric.pdf",
+         "id" : "centrally-sponsored-umbrella-scheme-for-education-of-st-childern-post-matric-scholarship-pms-for-st-students-meghalaya-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Umbrella Scheme For Education Of ST Childern - Post Matric Scholarship (PMS) For ST Students-Meghalaya (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Meghalaya"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-07-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Post_matric_Guidelines_mizoram_15032024.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-to-st-students-class-ix-and-x-mizoram-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre Matric Scholarship To ST Students (Class Ix And X) - Mizoram (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Mizoram"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-07-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Post_matric_Guidelines_mizoram_15032024.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-to-st-students-mizoram-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship To ST Students - Mizoram (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Mizoram"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-pre-matric-scholarship-scheme-for-st-students-nagaland-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre Matric Scholarship Scheme For ST Students-Nagaland (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Nagaland"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-07-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/GuidelinesPostmatricST-Nagaland.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-scheme-for-st-students-nagaland-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship Scheme For ST Students - Nagaland (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Nagaland"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-23",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Puducherry/Pudu_3005_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-sc-students-class-ix-x-puducherry-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Pre Matric Scholarship For SC Students (Class Ix & X) -Puducherry (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Puducherry"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-07-15",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Puducherry/Pudu_3013_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-post-matric-scholarship-to-obc-studetnts-puducherry-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Post Matric Scholarship To OBC Studetnts -Puducherry (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Puducherry"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-23",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Puducherry/Pudu_3006_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-post-matric-scholarship-for-sc-students-puducherry-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Post Matric Scholarship For SC Students-Puducherry (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Puducherry"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-23",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Puducherry/Pudu_3008_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-post-matric-scholarship-for-st-students-puducherry-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Post Matric Scholarship For ST Students-Puducherry (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Puducherry"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-07-15",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Puducherry/pre_matric_obc.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-to-obc-studetnts-class-i-to-class-v-puducherry-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Pre Matric Scholarship To OBC Studetnts(Class I To Class V) - Puducherry (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Puducherry"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-23",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Puducherry/Pudu_3007_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-needy-st-students-class-ix-x-puducherry-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Pre Matric Scholarship For Needy ST Students (Class Ix & X) -Puducherry (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Puducherry"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-11-20",
+         "applicationOpen" : "2026-07-15",
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-and-dnt-punjab-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship Scheme For OBC EBC And DNT - Punjab (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Punjab"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-11-15",
+         "applicationOpen" : "2026-07-01",
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-centrally-sponsored-post-matric-scheme-for-sc-students-punjab-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Post Matric Scheme For SC Students-Punjab (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Punjab"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-28",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-to-the-children-of-those-engaged-in-occupations-involving-cleaning-and-prone-to-health-hazards-punjab-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre-Matric Scholarship To The Children Of Those Engaged In Occupations Involving Cleaning And Prone To Health Hazards - Punjab (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Punjab"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-28",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-sc-students-class-ix-x-punjab-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Pre Matric Scholarship For SC Students (Class Ix & X)-Punjab (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Punjab"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-28",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Guidelines_of_OBC_EBC_and_DNT_3085.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-dnt-punjab-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC EBC DNT-Punjab (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Punjab"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-31",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3067_G.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-for-sc-students-studying-in-class-ix-and-x-sikkim-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre Matric Scholarship For SC Students Studying In Class Ix And X-Sikkim (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Sikkim"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-31",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3065_G.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-for-obc-ebc-and-dnt-students-sikkim-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship For OBC,EBC And DNT Students-Sikkim (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Sikkim"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-31",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3068_G.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarships-for-children-of-parents-or-guardians-engaged-in-unclean-occupation-class-1-10-sikkim-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre-Matric Scholarships For Children Of Parents Or Guardians Engaged In Unclean Occupation(Class 1-10)-Sikkim (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Sikkim"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-31",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3072_G.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarships-for-st-students-class-ix-and-class-x-sikkim-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre-Matric Scholarships For ST Students Class Ix And Class X-Sikkim (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Sikkim"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-31",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3064_G.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarship-for-sc-students-sikkim-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Post Matric Scholarship For SC Students - Sikkim (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Sikkim"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-31",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3063_G.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-scheme-for-st-students-sikkim-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship Scheme For ST Students-Sikkim (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Sikkim"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-31",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3069_G.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarships-for-obc-ebc-dnt-students-sikkim-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Pre-Matric Scholarships For OBC,EBC,DNT Students-Sikkim (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Sikkim"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-29",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/dadra_ST guideline.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-to-st-students-dnhdd-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre Matric Scholarship To ST Students-Dnhdd (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "The Dadra Nagar Haveli and Daman and Diu"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-29",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Dadra/Dadra_2072_G.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-students-class-ix-and-x-dnhdd-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC Students (Class Ix And X)-Dnhdd (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "The Dadra Nagar Haveli and Daman and Diu"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-29",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-ebc-students-class-ix-and-x-dnhdd-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Pre Matric Scholarship Scheme For EBC Students (Class Ix And X)-Dnhdd (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "The Dadra Nagar Haveli and Daman and Diu"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-29",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Dadra/Dadra_3015_G.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-to-sc-students-dnhdd-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship To SC Students -Dnhdd (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "The Dadra Nagar Haveli and Daman and Diu"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-29",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Dadra/Dadra_3011_G.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-to-st-students-dnhdd-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship To ST Students-Dnhdd (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "The Dadra Nagar Haveli and Daman and Diu"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-29",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Dadra/Dadra_3014_G.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-students-dnhdd-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship Scheme For OBC Students-Dnhdd (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "The Dadra Nagar Haveli and Daman and Diu"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-29",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-ebc-students-dnhdd-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship Scheme For EBC Students -Dnhdd (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "The Dadra Nagar Haveli and Daman and Diu"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-29",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Dadra/Dadra_2073_G.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-to-sc-students-dnhdd-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre Matric Scholarship To SC Students-Dnhdd (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "The Dadra Nagar Haveli and Daman and Diu"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-08",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Tripura/Guidelines_3040.pdf",
+         "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-obc-students-tripura-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Scheme Of Pre Matric Scholarship For OBC Students - Tripura (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Tripura"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-09",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/TRIPURA_PMS_OBC.pdf",
+         "id" : "centrally-sponsored-postmatric-scholarship-for-obc-students-tripura-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Postmatric Scholarship For OBC Students - Tripura (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Tripura"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-08-15",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Tripura/Post-Matric(CSS)-Revised-guidelines-tripura.pdf",
+         "id" : "centrally-sponsored-umbrella-scheme-for-education-of-st-childern-post-matric-scholarship-pms-for-st-students-tripura-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Umbrella Scheme For Education Of ST Childern - Post Matric Scholarship (PMS) For ST Students-Tripura (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Tripura"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2027-01-10",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/TRIPURA_PMS_SC.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-for-sc-students-tripura-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship For SC Students Tripura (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Tripura"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Tripura/tripure_EBC_Guideline.PDF",
+         "id" : "centrally-sponsored-dr-ambedkar-post-matric-scholarship-for-economically-backward-classes-ebc-tripura-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Dr.Ambedkar Post Matric Scholarship For Economically Backward Classes (EBC) -Tripura (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Tripura"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : "2027-01-10",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Tripura/Pre Matric SC Class IX X - prasanta majumder.pdf",
+         "id" : "centrally-sponsored-pre-matric-sc-class-ix-and-x-tripura-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre Matric SC (Class Ix And X)-Tripura (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Tripura"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-08-31",
+         "applicationOpen" : "2026-06-01",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Tripura/Pre-Matric(CSS)-Revised-guidelines-tripura.pdf",
+         "id" : "centrally-sponsored-umbrella-scheme-for-education-of-st-students-pre-matric-scholarship-class-ix-x-for-st-students-tripura-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Umbrella Scheme For Education Of ST Students - Pre Matric Scholarship (Class Ix & X) For ST Students-Tripura (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Tripura"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2027-01-10",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Tripura/Pre-Matric_SC Cleaning and Health Hazard.pdf",
+         "id" : "centrally-sponsored-pre-matric-sc-cleaning-and-health-hazard-tripura-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre Matric SC Cleaning And Health Hazard -Tripura (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Tripura"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/UK_PRE_GUIDELINE.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-for-sc-students-center-sector-uttarakhand-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre-Matric Scholarship For SC Students (Center Sector)-Uttarakhand (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Uttarakhand"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/UK_PRE_GUIDELINE.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-for-st-students-center-sector-uttarakhand-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre-Matric Scholarship For ST Students (Center Sector)-Uttarakhand (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Uttarakhand"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Help_manual.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-for-obc-students-uttarakhand-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post-Matric Scholarship For OBC Students-Uttarakhand (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Uttarakhand"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Help_manual.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-for-sc-students-uttarakhand-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post-Matric Scholarship For SC Students-Uttarakhand (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Uttarakhand"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Help_manual.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-for-st-students-uttarakhand-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post-Matric Scholarship For ST Students-Uttarakhand (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Uttarakhand"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Help_manual.pdf",
+         "id" : "centrally-sponsored-post-matric-scholarship-for-ebc-students-uttarakhand-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Post Matric Scholarship For EBC Students-Uttarakhand (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Uttarakhand"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-09-30",
+         "applicationOpen" : "2026-06-02",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/PRE_MATRIC_OBC_EBC_GUIDELINES-Social Welfare Uttarakhand_3082.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-uttarakhand-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC EBC And DNT -Uttarakhand (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Uttarakhand"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarsip-scheme-for-sc-west-bengal-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Post Matric Scholarsip Scheme For SC -West Bengal (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "West Bengal"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-scheme-for-sc-class-9-10-west-bengal-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Pre Matric Scholarship Scheme For SC (Class 9 & 10)- West Bengal (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "West Bengal"
+         ],
+         "status" : "not_yet_opened"
+      },
+      {
+         "applicationClose" : null,
+         "applicationOpen" : null,
+         "guidelinesUrl" : "null",
+         "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-scheme-to-the-children-of-those-engaged-in-occupations-involving-cleaning-and-health-hazard-west-bengal-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Centrally Sponsored Pre Matric Scholarship Scheme To The Children Of Those Engaged In Occupations Involving Cleaning And Health Hazard-West Bengal (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "West Bengal"
+         ],
+         "status" : "not_yet_opened"
       }
    ],
-   "scrapedAt" : "Mon Aug 17 15:50:33 2026 UTC",
+   "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded â out of pilot scope)",
+   "scrapedAt" : "Tue Aug 18 20:54:27 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
