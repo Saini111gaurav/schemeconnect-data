@@ -155,7 +155,7 @@ for my $bucket (@BUCKETS) {
 
 my $json = JSON::PP->new->canonical->pretty->encode({
     source      => "$BASE_URL/All-Scholarships",
-    scope       => "Central Sector + Centrally Sponsored schemes only (State Schemes excluded — out of pilot scope)",
+    scope       => "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
     scrapedAt   => scalar(gmtime()) . " UTC",
     schemeCount => scalar(@schemes),
     schemes     => \@schemes,
