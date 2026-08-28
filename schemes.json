@@ -1440,7 +1440,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-28",
+         "applicationClose" : "2026-09-25",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarship-to-the-children-of-those-engaged-in-occupations-involving-cleaning-and-prone-to-health-hazards-punjab-welfare-based-scheme",
@@ -1455,7 +1455,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-28",
+         "applicationClose" : "2026-09-25",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-sc-students-class-ix-x-punjab-welfare-based-scheme",
@@ -1470,7 +1470,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-28",
+         "applicationClose" : "2026-09-25",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Guidelines_of_OBC_EBC_and_DNT_3085.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-dnt-punjab-welfare-based-scheme",
@@ -1485,7 +1485,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3067_G.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarship-for-sc-students-studying-in-class-ix-and-x-sikkim-welfare-based-scheme",
@@ -1500,7 +1500,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3065_G.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-for-obc-ebc-and-dnt-students-sikkim-welfare-based-scheme",
@@ -1515,7 +1515,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3068_G.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarships-for-children-of-parents-or-guardians-engaged-in-unclean-occupation-class-1-10-sikkim-welfare-based-scheme",
@@ -1530,7 +1530,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3072_G.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarships-for-st-students-class-ix-and-class-x-sikkim-welfare-based-scheme",
@@ -1545,7 +1545,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3064_G.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarship-for-sc-students-sikkim-welfare-based-scheme",
@@ -1560,7 +1560,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3063_G.pdf",
          "id" : "centrally-sponsored-post-matric-scholarship-scheme-for-st-students-sikkim-welfare-based-scheme",
@@ -1575,7 +1575,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3069_G.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarships-for-obc-ebc-dnt-students-sikkim-welfare-based-scheme",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Tue Aug 25 05:08:25 2026 UTC",
+   "scrapedAt" : "Fri Aug 28 21:14:44 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
