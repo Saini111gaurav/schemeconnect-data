@@ -158,7 +158,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf",
          "id" : "central-sector-financial-assistance-for-education-to-the-wards-of-beedi-cine-iomc-lsdm-pre-matric-welfare-based-scheme",
@@ -171,7 +171,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3061_G.pdf",
          "id" : "central-sector-pm-yasasvi-central-sector-scheme-of-top-class-education-in-schools-for-obc-ebc-and-dnt-students-merit-based-scheme",
@@ -301,7 +301,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-07-25",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/DEPDGuidelines_1.pdf",
          "id" : "central-sector-pre-matric-scholarship-for-students-with-disabilities-welfare-based-scheme",
@@ -340,7 +340,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : "2026-09-30",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/NMMSSGuidelines.pdf",
          "id" : "central-sector-national-means-cum-merit-scholarship-merit-based-scheme",
@@ -870,7 +870,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally Sponsored Scheme of Pre Matric Scholarship Scheme for SC Students.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-scheme-for-sc-students-himachal-pradesh-welfare-based-scheme",
@@ -882,7 +882,7 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-10-31",
@@ -915,7 +915,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally Sponsored Scheme of Pre Matric Scholarship Scheme for ST Scheme.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-scheme-for-st-students-himachal-pradesh-welfare-based-scheme",
@@ -927,10 +927,10 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally sponsored scheme of pre matric scholarship scheme for Other backward classes  students.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-students-class-ix-and-x-himachal-pradesh-welfare-based-scheme",
@@ -942,10 +942,10 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarship-for-sc-students-of-parents-or-guardians-engaged-in-unclean-occupation-class-1-10-himachal-pradesh-welfare-based-scheme",
@@ -957,7 +957,7 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-09-15",
@@ -1800,7 +1800,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-08-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Tripura/Pre-Matric(CSS)-Revised-guidelines-tripura.pdf",
          "id" : "centrally-sponsored-umbrella-scheme-for-education-of-st-students-pre-matric-scholarship-class-ix-x-for-st-students-tripura-welfare-based-scheme",
@@ -1812,7 +1812,7 @@
          "states" : [
             "Tripura"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2027-01-10",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Mon Aug 31 03:22:13 2026 UTC",
+   "scrapedAt" : "Tue Sep  1 03:28:31 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
