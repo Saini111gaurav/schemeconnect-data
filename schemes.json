@@ -1050,8 +1050,8 @@
          "status" : "open"
       },
       {
-         "applicationClose" : null,
-         "applicationOpen" : null,
+         "applicationClose" : "2026-10-10",
+         "applicationOpen" : "2026-09-03",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/ladakh/ladakh_3023_G.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-post-matric-scholarship-for-st-students-ladakh-welfare-based-scheme",
          "ministry" : null,
@@ -1062,11 +1062,11 @@
          "states" : [
             "Ladakh"
          ],
-         "status" : "not_yet_opened"
+         "status" : "open"
       },
       {
-         "applicationClose" : null,
-         "applicationOpen" : null,
+         "applicationClose" : "2026-10-10",
+         "applicationOpen" : "2026-09-03",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/ladakh/ladakh_3022_G.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-st-students-classes-ix-and-x-ladakh-welfare-based-scheme",
          "ministry" : null,
@@ -1077,7 +1077,7 @@
          "states" : [
             "Ladakh"
          ],
-         "status" : "not_yet_opened"
+         "status" : "open"
       },
       {
          "applicationClose" : "2026-11-30",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Thu Sep  3 05:29:30 2026 UTC",
+   "scrapedAt" : "Fri Sep  4 03:27:13 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
