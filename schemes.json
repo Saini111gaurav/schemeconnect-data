@@ -855,7 +855,7 @@
          "status" : "not_yet_opened"
       },
       {
-         "applicationClose" : null,
+         "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally sponsored scheme of pre matric scholarship scheme for Other backward classes  students.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-students-class-ix-and-x-himachal-pradesh-welfare-based-scheme",
@@ -867,7 +867,7 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "unknown"
+         "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
@@ -915,7 +915,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : null,
+         "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally Sponsored Scheme of Pre Matric Scholarship Scheme for SC Students.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-scheme-for-sc-students-himachal-pradesh-welfare-based-scheme",
@@ -927,10 +927,10 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "unknown"
+         "status" : "open"
       },
       {
-         "applicationClose" : null,
+         "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally Sponsored Scheme of Pre Matric Scholarship Scheme for ST Scheme.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-scheme-for-st-students-himachal-pradesh-welfare-based-scheme",
@@ -942,10 +942,10 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "unknown"
+         "status" : "open"
       },
       {
-         "applicationClose" : null,
+         "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarship-for-sc-students-of-parents-or-guardians-engaged-in-unclean-occupation-class-1-10-himachal-pradesh-welfare-based-scheme",
@@ -957,7 +957,7 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "unknown"
+         "status" : "open"
       },
       {
          "applicationClose" : "2026-09-15",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Tue Sep  8 03:28:33 2026 UTC",
+   "scrapedAt" : "Wed Sep  9 03:28:33 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
