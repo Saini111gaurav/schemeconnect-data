@@ -825,8 +825,8 @@
          "status" : "open"
       },
       {
-         "applicationClose" : null,
-         "applicationOpen" : null,
+         "applicationClose" : "2027-01-31",
+         "applicationOpen" : "2026-09-09",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Guidlines_3099.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-and-dnt-haryana-welfare-based-scheme",
          "ministry" : null,
@@ -837,11 +837,11 @@
          "states" : [
             "Haryana"
          ],
-         "status" : "not_yet_opened"
+         "status" : "open"
       },
       {
-         "applicationClose" : null,
-         "applicationOpen" : null,
+         "applicationClose" : "2027-01-31",
+         "applicationOpen" : "2026-09-09",
          "guidelinesUrl" : null,
          "id" : "centrally-sponsored-post-matric-scholarship-for-sc-students-haryana-welfare-based-scheme",
          "ministry" : null,
@@ -852,7 +852,7 @@
          "states" : [
             "Haryana"
          ],
-         "status" : "not_yet_opened"
+         "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Wed Sep  9 03:28:33 2026 UTC",
+   "scrapedAt" : "Thu Sep 10 03:29:06 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
