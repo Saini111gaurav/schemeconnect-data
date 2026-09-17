@@ -119,8 +119,8 @@
          "status" : "open"
       },
       {
-         "applicationClose" : null,
-         "applicationOpen" : null,
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-09-16",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf",
          "id" : "central-sector-national-scholarship-for-post-graduate-studies-merit-based-scheme",
          "ministry" : "UGC",
@@ -129,11 +129,11 @@
          "renewalWindow" : false,
          "schemeType" : "central_sector",
          "states" : null,
-         "status" : "not_yet_opened"
+         "status" : "open"
       },
       {
-         "applicationClose" : null,
-         "applicationOpen" : null,
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-09-16",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Guidelines_ISHAN UDAY_2324.pdf",
          "id" : "central-sector-ishan-uday-special-scholarship-scheme-for-ner-merit-based-scheme",
          "ministry" : "UGC",
@@ -142,7 +142,7 @@
          "renewalWindow" : false,
          "schemeType" : "central_sector",
          "states" : null,
-         "status" : "not_yet_opened"
+         "status" : "open"
       },
       {
          "applicationClose" : "2026-09-30",
@@ -857,10 +857,10 @@
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-04",
-         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally sponsored scheme of pre matric scholarship scheme for Other backward classes  students.pdf",
-         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-students-class-ix-and-x-himachal-pradesh-welfare-based-scheme",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Dr. Ambedkar Post Matric  Scholarship Scheme for Economically Backward Classes.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-for-obc-ebc-and-dnt-students-himachal-pradesh-welfare-based-scheme",
          "ministry" : null,
-         "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC ,EBC And DNT Students (Class Ix And X)-Himachal Pradesh (Welfare Based Scheme)",
+         "name" : "PM YASASVI Post Matric Scholarship For OBC,EBC And DNT Students-Himachal Pradesh (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
          "schemeType" : "centrally_sponsored",
@@ -872,10 +872,10 @@
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-04",
-         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Dr. Ambedkar Post Matric  Scholarship Scheme for Economically Backward Classes.pdf",
-         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-for-obc-ebc-and-dnt-students-himachal-pradesh-welfare-based-scheme",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally sponsored scheme of pre matric scholarship scheme for Other backward classes  students.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-students-class-ix-and-x-himachal-pradesh-welfare-based-scheme",
          "ministry" : null,
-         "name" : "PM YASASVI Post Matric Scholarship For OBC,EBC And DNT Students-Himachal Pradesh (Welfare Based Scheme)",
+         "name" : "PM YASASVI Pre Matric Scholarship Scheme For OBC ,EBC And DNT Students (Class Ix And X)-Himachal Pradesh (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
          "schemeType" : "centrally_sponsored",
@@ -960,7 +960,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : null,
+         "applicationClose" : "2026-12-31",
          "applicationOpen" : "2026-07-10",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/J&K/Guidelines_3048.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-sc-students-class-ix-x-jammu-and-kashmir-welfare-based-scheme",
@@ -972,7 +972,7 @@
          "states" : [
             "Jammu and Kashmir"
          ],
-         "status" : "unknown"
+         "status" : "open"
       },
       {
          "applicationClose" : "2026-09-20",
@@ -1020,7 +1020,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : null,
+         "applicationClose" : "2026-12-31",
          "applicationOpen" : "2026-07-10",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/J&K/Guidelines_3049.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-post-matric-scholarship-for-sc-students-jammu-and-kashmir-welfare-based-scheme",
@@ -1032,7 +1032,7 @@
          "states" : [
             "Jammu and Kashmir"
          ],
-         "status" : "unknown"
+         "status" : "open"
       },
       {
          "applicationClose" : "2026-09-20",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Wed Sep 16 03:28:21 2026 UTC",
+   "scrapedAt" : "Thu Sep 17 03:28:36 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
