@@ -1440,7 +1440,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-09-25",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarship-to-the-children-of-those-engaged-in-occupations-involving-cleaning-and-prone-to-health-hazards-punjab-welfare-based-scheme",
@@ -1452,10 +1452,10 @@
          "states" : [
             "Punjab"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-09-25",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-sc-students-class-ix-x-punjab-welfare-based-scheme",
@@ -1467,10 +1467,10 @@
          "states" : [
             "Punjab"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-09-25",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Guidelines_of_OBC_EBC_and_DNT_3085.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-dnt-punjab-welfare-based-scheme",
@@ -1482,7 +1482,7 @@
          "states" : [
             "Punjab"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-09-30",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Fri Sep 25 08:51:08 2026 UTC",
+   "scrapedAt" : "Sat Sep 26 08:37:33 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
