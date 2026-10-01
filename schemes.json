@@ -353,17 +353,17 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-09-30",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
          "id" : "central-sector-pm-usp-central-sector-scheme-of-scholarship-for-college-and-university-students-csss-merit-based-scheme",
          "ministry" : "Department of Higher Education",
          "name" : "PM-USP – Central Sector Scheme Of Scholarship For College And University Students (CSSS) (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
-         "renewalWindow" : true,
+         "renewalWindow" : false,
          "schemeType" : "central_sector",
          "states" : null,
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-10-31",
@@ -495,7 +495,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-09-30",
+         "applicationClose" : null,
          "applicationOpen" : "2026-08-21",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/EDUGuidelinesAnnex1.pdf",
          "id" : "centrally-sponsored-umbrella-scheme-for-education-of-st-students-pre-matric-scholarship-class-ix-x-for-st-students-arunachal-pradesh-welfare-based-scheme",
@@ -507,7 +507,7 @@
          "states" : [
             "Arunachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-10-06",
@@ -540,7 +540,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-09-30",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/POST_MATRIC_OBC_GUIDELINES.pdf",
          "id" : "centrally-sponsored-post-matric-scholarship-to-obc-students-assam-welfare-based-scheme",
@@ -552,7 +552,7 @@
          "states" : [
             "Assam"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-10-15",
@@ -570,7 +570,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-09-30",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/PRE_MATRIC_OBC_GUIDELINES.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarship-to-obc-students-class-9-and-class-10-assam-welfare-based-scheme",
@@ -582,7 +582,7 @@
          "states" : [
             "Assam"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-10-06",
@@ -857,21 +857,6 @@
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-04",
-         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Dr. Ambedkar Post Matric  Scholarship Scheme for Economically Backward Classes.pdf",
-         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-for-obc-ebc-and-dnt-students-himachal-pradesh-welfare-based-scheme",
-         "ministry" : null,
-         "name" : "PM YASASVI Post Matric Scholarship For OBC,EBC And DNT Students-Himachal Pradesh (Welfare Based Scheme)",
-         "officialDomain" : "scholarships.gov.in",
-         "renewalWindow" : false,
-         "schemeType" : "centrally_sponsored",
-         "states" : [
-            "Himachal Pradesh"
-         ],
-         "status" : "open"
-      },
-      {
-         "applicationClose" : "2026-10-31",
-         "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally sponsored scheme of pre matric scholarship scheme for Other backward classes  students.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-students-class-ix-and-x-himachal-pradesh-welfare-based-scheme",
          "ministry" : null,
@@ -891,6 +876,21 @@
          "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarship-scheme-for-sc-students-himachal-pradesh-welfare-based-scheme",
          "ministry" : null,
          "name" : "Centrally Sponsored Post Matric Scholarship Scheme For SC Students-Himachal Pradesh (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "Himachal Pradesh"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-06-04",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Dr. Ambedkar Post Matric  Scholarship Scheme for Economically Backward Classes.pdf",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-for-obc-ebc-and-dnt-students-himachal-pradesh-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "PM YASASVI Post Matric Scholarship For OBC,EBC And DNT Students-Himachal Pradesh (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
          "schemeType" : "centrally_sponsored",
@@ -1305,7 +1305,7 @@
          "status" : "not_yet_opened"
       },
       {
-         "applicationClose" : "2026-09-30",
+         "applicationClose" : null,
          "applicationOpen" : "2026-07-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/GuidelinesPostmatricST-Nagaland.pdf",
          "id" : "centrally-sponsored-post-matric-scholarship-scheme-for-st-students-nagaland-welfare-based-scheme",
@@ -1317,7 +1317,7 @@
          "states" : [
             "Nagaland"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-10-31",
@@ -1395,7 +1395,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-09-30",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-23",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Puducherry/Pudu_3007_G.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-needy-st-students-class-ix-x-puducherry-welfare-based-scheme",
@@ -1407,7 +1407,7 @@
          "states" : [
             "Puducherry"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-11-20",
@@ -1770,7 +1770,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-09-30",
+         "applicationClose" : "2026-12-31",
          "applicationOpen" : "2026-06-08",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Tripura/Guidelines_3040.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-obc-students-tripura-welfare-based-scheme",
@@ -1800,7 +1800,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-09-30",
+         "applicationClose" : "2026-12-31",
          "applicationOpen" : "2026-06-09",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/TRIPURA_PMS_OBC.pdf",
          "id" : "centrally-sponsored-postmatric-scholarship-for-obc-students-tripura-welfare-based-scheme",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Wed Sep 30 09:44:12 2026 UTC",
+   "scrapedAt" : "Thu Oct  1 10:10:29 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
