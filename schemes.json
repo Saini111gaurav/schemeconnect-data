@@ -353,17 +353,17 @@
          "status" : "open"
       },
       {
-         "applicationClose" : null,
+         "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf",
          "id" : "central-sector-pm-usp-central-sector-scheme-of-scholarship-for-college-and-university-students-csss-merit-based-scheme",
          "ministry" : "Department of Higher Education",
          "name" : "PM-USP – Central Sector Scheme Of Scholarship For College And University Students (CSSS) (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
-         "renewalWindow" : false,
+         "renewalWindow" : true,
          "schemeType" : "central_sector",
          "states" : null,
-         "status" : "unknown"
+         "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Mon Oct  5 10:29:11 2026 UTC",
+   "scrapedAt" : "Tue Oct  6 10:20:55 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
