@@ -510,7 +510,7 @@
          "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-06",
+         "applicationClose" : null,
          "applicationOpen" : "2026-07-06",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/guidelines-Pre-matric-ST.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarship-to-st-students-class-ix-and-x-assam-welfare-based-scheme",
@@ -522,7 +522,7 @@
          "states" : [
             "Assam"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-10-15",
@@ -585,7 +585,7 @@
          "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-06",
+         "applicationClose" : null,
          "applicationOpen" : "2026-07-06",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Post-matric-guidelines-ST.pdf",
          "id" : "centrally-sponsored-post-matric-scholarship-to-st-students-assam-welfare-based-scheme",
@@ -597,7 +597,7 @@
          "states" : [
             "Assam"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-10-15",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Tue Oct  6 10:20:55 2026 UTC",
+   "scrapedAt" : "Wed Oct  7 10:18:00 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
