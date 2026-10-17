@@ -480,7 +480,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-10-16",
+         "applicationClose" : null,
          "applicationOpen" : "2026-08-07",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/EDUPostMatricScholarshipPMSforSTstudents.pdf",
          "id" : "centrally-sponsored-umbrella-scheme-for-education-of-st-children-post-matric-scholarship-pms-for-st-students-arunachal-pradesh-welfare-based-scheme",
@@ -492,7 +492,7 @@
          "states" : [
             "Arunachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-10-31",
@@ -1305,7 +1305,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : null,
+         "applicationClose" : "2026-10-27",
          "applicationOpen" : "2026-07-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/GuidelinesPostmatricST-Nagaland.pdf",
          "id" : "centrally-sponsored-post-matric-scholarship-scheme-for-st-students-nagaland-welfare-based-scheme",
@@ -1317,7 +1317,7 @@
          "states" : [
             "Nagaland"
          ],
-         "status" : "unknown"
+         "status" : "open"
       },
       {
          "applicationClose" : "2026-10-31",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Fri Oct 16 08:12:40 2026 UTC",
+   "scrapedAt" : "Sat Oct 17 07:49:56 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
