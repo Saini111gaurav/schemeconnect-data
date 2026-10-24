@@ -42,13 +42,13 @@
       },
       {
          "applicationClose" : "2026-10-31",
-         "applicationOpen" : "2026-06-01",
+         "applicationOpen" : "2026-10-22",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/AICTE/PM_USPY(SSSJKL)SchemeSpecifications.pdf",
          "id" : "central-sector-pm-usp-special-scholarship-scheme-for-jammu-kashmir-and-ladakh-merit-based-scheme",
          "ministry" : "All India Council For Technical Education",
          "name" : "PM USP Special Scholarship Scheme For Jammu Kashmir And Ladakh (Merit Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
-         "renewalWindow" : true,
+         "renewalWindow" : false,
          "schemeType" : "central_sector",
          "states" : null,
          "status" : "open"
@@ -1592,21 +1592,6 @@
       {
          "applicationClose" : "2026-10-31",
          "applicationOpen" : "2026-07-29",
-         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Dadra/Dadra_2073_G.pdf",
-         "id" : "centrally-sponsored-pre-matric-scholarship-to-sc-students-dnhdd-welfare-based-scheme",
-         "ministry" : null,
-         "name" : "Pre Matric Scholarship To SC Students-Dnhdd (Welfare Based Scheme)",
-         "officialDomain" : "scholarships.gov.in",
-         "renewalWindow" : false,
-         "schemeType" : "centrally_sponsored",
-         "states" : [
-            "The Dadra Nagar Haveli and Daman and Diu"
-         ],
-         "status" : "open"
-      },
-      {
-         "applicationClose" : "2026-10-31",
-         "applicationOpen" : "2026-07-29",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Dadra/Dadra_2072_G.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-students-class-ix-and-x-dnhdd-welfare-based-scheme",
          "ministry" : null,
@@ -1626,6 +1611,21 @@
          "id" : "centrally-sponsored-pre-matric-scholarship-to-st-students-dnhdd-welfare-based-scheme",
          "ministry" : null,
          "name" : "Pre Matric Scholarship To ST Students-Dnhdd (Welfare Based Scheme)",
+         "officialDomain" : "scholarships.gov.in",
+         "renewalWindow" : false,
+         "schemeType" : "centrally_sponsored",
+         "states" : [
+            "The Dadra Nagar Haveli and Daman and Diu"
+         ],
+         "status" : "open"
+      },
+      {
+         "applicationClose" : "2026-10-31",
+         "applicationOpen" : "2026-07-29",
+         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Dadra/Dadra_2073_G.pdf",
+         "id" : "centrally-sponsored-pre-matric-scholarship-to-sc-students-dnhdd-welfare-based-scheme",
+         "ministry" : null,
+         "name" : "Pre Matric Scholarship To SC Students-Dnhdd (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
          "schemeType" : "centrally_sponsored",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Fri Oct 23 08:34:40 2026 UTC",
+   "scrapedAt" : "Sat Oct 24 08:09:54 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
