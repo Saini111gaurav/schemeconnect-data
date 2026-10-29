@@ -1455,7 +1455,7 @@
          "status" : "unknown"
       },
       {
-         "applicationClose" : null,
+         "applicationClose" : "2026-11-10",
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-sc-students-class-ix-x-punjab-welfare-based-scheme",
@@ -1467,7 +1467,7 @@
          "states" : [
             "Punjab"
          ],
-         "status" : "unknown"
+         "status" : "open"
       },
       {
          "applicationClose" : null,
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Wed Oct 28 09:42:01 2026 UTC",
+   "scrapedAt" : "Thu Oct 29 09:59:55 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
