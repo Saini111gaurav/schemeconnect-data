@@ -145,7 +145,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf",
          "id" : "central-sector-financial-assistance-for-education-to-the-wards-of-beedi-cine-iomc-lsdm-post-matric-welfare-based-scheme",
@@ -155,10 +155,10 @@
          "renewalWindow" : false,
          "schemeType" : "central_sector",
          "states" : null,
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf",
          "id" : "central-sector-financial-assistance-for-education-to-the-wards-of-beedi-cine-iomc-lsdm-pre-matric-welfare-based-scheme",
@@ -168,7 +168,7 @@
          "renewalWindow" : false,
          "schemeType" : "central_sector",
          "states" : null,
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-11-15",
@@ -301,7 +301,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-07-25",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/DEPDGuidelines_1.pdf",
          "id" : "central-sector-pre-matric-scholarship-for-students-with-disabilities-welfare-based-scheme",
@@ -311,7 +311,7 @@
          "renewalWindow" : false,
          "schemeType" : "central_sector",
          "states" : null,
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-11-30",
@@ -405,7 +405,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-07-03",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Andaman/POST_MATRIC_OBC_GUIDELINES_ANDMAN.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-students-andaman-and-nicobar-welfare-based-scheme",
@@ -417,7 +417,7 @@
          "states" : [
             "Andaman and Nicobar Islands"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-12-31",
@@ -465,7 +465,7 @@
          "status" : "not_yet_opened"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-07-03",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Andaman/PRE_MATRIC_OBC_GUIDELINES_ANDMAN.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-students-class-ix-and-x-andaman-and-nicobar-welfare-based-scheme",
@@ -477,7 +477,7 @@
          "states" : [
             "Andaman and Nicobar Islands"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-11-06",
@@ -495,7 +495,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-08-21",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/EDUGuidelinesAnnex1.pdf",
          "id" : "centrally-sponsored-umbrella-scheme-for-education-of-st-students-pre-matric-scholarship-class-ix-x-for-st-students-arunachal-pradesh-welfare-based-scheme",
@@ -507,7 +507,7 @@
          "states" : [
             "Arunachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : null,
@@ -780,7 +780,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-07-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Goa/guidelines-Pre-matric-17-Oct-2022.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-needy-st-students-class-ix-x-goa-welfare-based-scheme",
@@ -792,7 +792,7 @@
          "states" : [
             "Goa"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-11-30",
@@ -855,7 +855,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally sponsored scheme of pre matric scholarship scheme for Other backward classes  students.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-students-class-ix-and-x-himachal-pradesh-welfare-based-scheme",
@@ -867,10 +867,10 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally Sponsored Scheme  of Post Matric Scholarship Scheme for SC Students_scheme.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarship-scheme-for-sc-students-himachal-pradesh-welfare-based-scheme",
@@ -882,10 +882,10 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Dr. Ambedkar Post Matric  Scholarship Scheme for Economically Backward Classes.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-for-obc-ebc-and-dnt-students-himachal-pradesh-welfare-based-scheme",
@@ -897,10 +897,10 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally Sponsored Scheme  of Post Matric Scholarship Scheme for ST Students_scheme.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarship-scheme-for-st-students-himachal-pradesh-welfare-based-scheme",
@@ -912,10 +912,10 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally Sponsored Scheme of Pre Matric Scholarship Scheme for SC Students.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-scheme-for-sc-students-himachal-pradesh-welfare-based-scheme",
@@ -927,10 +927,10 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally Sponsored Scheme of Pre Matric Scholarship Scheme for ST Scheme.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-scheme-for-st-students-himachal-pradesh-welfare-based-scheme",
@@ -942,10 +942,10 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-04",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarship-for-sc-students-of-parents-or-guardians-engaged-in-unclean-occupation-class-1-10-himachal-pradesh-welfare-based-scheme",
@@ -957,7 +957,7 @@
          "states" : [
             "Himachal Pradesh"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-12-31",
@@ -990,7 +990,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-07-22",
          "guidelinesUrl" : null,
          "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-scheme-for-obc-ebc-and-dnt-jammu-and-kashmir-welfare-based-scheme",
@@ -1002,10 +1002,10 @@
          "states" : [
             "Jammu and Kashmir"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-07-22",
          "guidelinesUrl" : null,
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-ebc-and-dnt-jammu-and-kashmir-welfare-based-scheme",
@@ -1017,7 +1017,7 @@
          "states" : [
             "Jammu and Kashmir"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-12-31",
@@ -1110,7 +1110,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-02",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/manipur_3036_G.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarship-scheme-for-obc-students-class-ix-and-x-manipur-welfare-based-scheme",
@@ -1122,10 +1122,10 @@
          "states" : [
             "Manipur"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-02",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/manipur_3033_G.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-for-obc-students-manipur-welfare-based-scheme",
@@ -1137,10 +1137,10 @@
          "states" : [
             "Manipur"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-02",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/manipur_3035_G.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-pre-matric-scholarship-for-sc-students-studying-in-class-ix-and-x-manipur-welfare-based-scheme",
@@ -1152,10 +1152,10 @@
          "states" : [
             "Manipur"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-08-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/PreMatricGuidelinesManipur.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarship-for-st-students-for-class-ix-and-x-manipur-welfare-based-scheme",
@@ -1167,10 +1167,10 @@
          "states" : [
             "Manipur"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-08-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/PostMatricGuidelinesManipur.pdf",
          "id" : "centrally-sponsored-post-matric-scholarship-for-st-students-manipur-welfare-based-scheme",
@@ -1182,10 +1182,10 @@
          "states" : [
             "Manipur"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-02",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/manipur_3032_G.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarship-for-sc-students-manipur-welfare-based-scheme",
@@ -1197,7 +1197,7 @@
          "states" : [
             "Manipur"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-11-30",
@@ -1260,7 +1260,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-07-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Post_matric_Guidelines_mizoram_15032024.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarship-to-st-students-class-ix-and-x-mizoram-welfare-based-scheme",
@@ -1272,10 +1272,10 @@
          "states" : [
             "Mizoram"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-07-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Post_matric_Guidelines_mizoram_15032024.pdf",
          "id" : "centrally-sponsored-post-matric-scholarship-to-st-students-mizoram-welfare-based-scheme",
@@ -1287,7 +1287,7 @@
          "states" : [
             "Mizoram"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-11-30",
@@ -1320,7 +1320,7 @@
          "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-23",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Puducherry/Pudu_3005_G.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-sc-students-class-ix-x-puducherry-welfare-based-scheme",
@@ -1332,7 +1332,7 @@
          "states" : [
             "Puducherry"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-11-16",
@@ -1350,7 +1350,7 @@
          "status" : "open"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-23",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Puducherry/Pudu_3006_G.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-post-matric-scholarship-for-sc-students-puducherry-welfare-based-scheme",
@@ -1362,10 +1362,10 @@
          "states" : [
             "Puducherry"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-23",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Puducherry/Pudu_3008_G.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-post-matric-scholarship-for-st-students-puducherry-welfare-based-scheme",
@@ -1377,7 +1377,7 @@
          "states" : [
             "Puducherry"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-11-16",
@@ -1485,7 +1485,7 @@
          "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3063_G.pdf",
          "id" : "centrally-sponsored-post-matric-scholarship-scheme-for-st-students-sikkim-welfare-based-scheme",
@@ -1497,10 +1497,10 @@
          "states" : [
             "Sikkim"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3067_G.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarship-for-sc-students-studying-in-class-ix-and-x-sikkim-welfare-based-scheme",
@@ -1512,10 +1512,10 @@
          "states" : [
             "Sikkim"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3065_G.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholarship-for-obc-ebc-and-dnt-students-sikkim-welfare-based-scheme",
@@ -1527,10 +1527,10 @@
          "states" : [
             "Sikkim"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3068_G.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarships-for-children-of-parents-or-guardians-engaged-in-unclean-occupation-class-1-10-sikkim-welfare-based-scheme",
@@ -1542,10 +1542,10 @@
          "states" : [
             "Sikkim"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3072_G.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarships-for-st-students-class-ix-and-class-x-sikkim-welfare-based-scheme",
@@ -1557,10 +1557,10 @@
          "states" : [
             "Sikkim"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3064_G.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-post-matric-scholarship-for-sc-students-sikkim-welfare-based-scheme",
@@ -1572,10 +1572,10 @@
          "states" : [
             "Sikkim"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-10-31",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/3069_G.pdf",
          "id" : "centrally-sponsored-pm-yasasvi-pre-matric-scholarships-for-obc-ebc-dnt-students-sikkim-welfare-based-scheme",
@@ -1587,7 +1587,7 @@
          "states" : [
             "Sikkim"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : "2026-11-30",
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Sat Oct 31 09:40:46 2026 UTC",
+   "scrapedAt" : "Sun Nov  1 10:29:23 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
