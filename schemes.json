@@ -1155,7 +1155,7 @@
          "status" : "unknown"
       },
       {
-         "applicationClose" : null,
+         "applicationClose" : "2026-11-18",
          "applicationOpen" : "2026-08-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/PreMatricGuidelinesManipur.pdf",
          "id" : "centrally-sponsored-pre-matric-scholarship-for-st-students-for-class-ix-and-x-manipur-welfare-based-scheme",
@@ -1167,10 +1167,10 @@
          "states" : [
             "Manipur"
          ],
-         "status" : "unknown"
+         "status" : "open"
       },
       {
-         "applicationClose" : null,
+         "applicationClose" : "2026-11-18",
          "applicationOpen" : "2026-08-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/PostMatricGuidelinesManipur.pdf",
          "id" : "centrally-sponsored-post-matric-scholarship-for-st-students-manipur-welfare-based-scheme",
@@ -1182,7 +1182,7 @@
          "states" : [
             "Manipur"
          ],
-         "status" : "unknown"
+         "status" : "open"
       },
       {
          "applicationClose" : null,
@@ -1981,6 +1981,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Tue Nov  3 10:54:41 2026 UTC",
+   "scrapedAt" : "Wed Nov  4 10:57:47 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
