@@ -1,5 +1,5 @@
 {
-   "schemeCount" : 136,
+   "schemeCount" : 135,
    "schemes" : [
       {
          "applicationClose" : "2026-11-30",
@@ -1455,7 +1455,7 @@
          "status" : "unknown"
       },
       {
-         "applicationClose" : "2026-11-25",
+         "applicationClose" : null,
          "applicationOpen" : "2026-06-01",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/not_available.pdf",
          "id" : "centrally-sponsored-centrally-sponsored-scheme-of-pre-matric-scholarship-for-sc-students-class-ix-x-punjab-welfare-based-scheme",
@@ -1467,7 +1467,7 @@
          "states" : [
             "Punjab"
          ],
-         "status" : "open"
+         "status" : "unknown"
       },
       {
          "applicationClose" : null,
@@ -1893,24 +1893,9 @@
          "applicationClose" : "2026-11-30",
          "applicationOpen" : "2026-06-02",
          "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Help_manual.pdf",
-         "id" : "centrally-sponsored-post-matric-scholarship-for-obc-students-uttarakhand-welfare-based-scheme",
+         "id" : "centrally-sponsored-pm-yasasvi-post-matric-scholraship-scheme-for-obc-ebc-and-dnt-uttarakhand-welfare-based-scheme",
          "ministry" : null,
-         "name" : "Post-Matric Scholarship For OBC Students-Uttarakhand (Welfare Based Scheme)",
-         "officialDomain" : "scholarships.gov.in",
-         "renewalWindow" : false,
-         "schemeType" : "centrally_sponsored",
-         "states" : [
-            "Uttarakhand"
-         ],
-         "status" : "open"
-      },
-      {
-         "applicationClose" : "2026-11-30",
-         "applicationOpen" : "2026-06-02",
-         "guidelinesUrl" : "https://scholarships.gov.in/public/schemeGuidelines/Help_manual.pdf",
-         "id" : "centrally-sponsored-post-matric-scholarship-for-ebc-students-uttarakhand-welfare-based-scheme",
-         "ministry" : null,
-         "name" : "Post Matric Scholarship For EBC Students-Uttarakhand (Welfare Based Scheme)",
+         "name" : "PM YASASVI Post Matric Scholraship Scheme For OBC,EBC And DNT-Uttarakhand (Welfare Based Scheme)",
          "officialDomain" : "scholarships.gov.in",
          "renewalWindow" : false,
          "schemeType" : "centrally_sponsored",
@@ -1981,6 +1966,6 @@
       }
    ],
    "scope" : "Central Sector + Centrally Sponsored schemes only (State Schemes excluded - out of pilot scope)",
-   "scrapedAt" : "Tue Nov 24 13:45:42 2026 UTC",
+   "scrapedAt" : "Thu Nov 26 12:38:08 2026 UTC",
    "source" : "https://scholarships.gov.in/All-Scholarships"
 }
